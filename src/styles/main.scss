@@ -1,0 +1,20 @@
+:root {
+    --primori-color: #4427b9;;
+    --primori-color-hover: #053615;
+    --second-color: #eef1ef;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #f5f4f4;
+    position: relative;
+    margin: 0;
+}
+
+a {
+    color: var(--primori-color);
+    text-decoration: none;
+}
